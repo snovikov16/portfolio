@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+h1:hover {
+    background-color: aqua;
+    color:#7C1F7C;
+    width:250px;
+}
